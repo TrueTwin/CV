@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+body {
+    background-color: #faf7c7;
+    color: #0f141e;
+
+    font-size: 18px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Noto Sans', sans-serif;
+}
